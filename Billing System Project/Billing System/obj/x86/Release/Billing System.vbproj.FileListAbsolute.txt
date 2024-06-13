@@ -1,0 +1,6 @@
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\bin\Release\Billing System.exe.config
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Release\WindowsApplication1.Form1.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Release\WindowsApplication1.Form2.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Release\WindowsApplication1.Form3.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Release\Billing System.vbproj.GenerateResource.Cache

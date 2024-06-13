@@ -1,0 +1,43 @@
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\bin\Debug\Billing System.exe.config
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\bin\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\bin\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\bin\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\bin\Debug\Billing System.exe.config
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\bin\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\bin\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\bin\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Start.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Loging.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Item.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Billing.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\WindowsApplication1.Start.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\WindowsApplication1.Item.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\WindowsApplication1.Billing.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System - Copy\Billing System\obj\x86\Debug\WindowsApplication1.Loging.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\bin\Debug\Billing System.exe.config
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\bin\Debug\Billing System.exe
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\bin\Debug\Billing System.pdb
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\bin\Debug\Billing System.xml
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\WindowsApplication1.Start.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\WindowsApplication1.Item.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\WindowsApplication1.Billing.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\WindowsApplication1.Loging.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Sewmini\Sewmini ATI Campus\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+D:\Individual Project\Billing System Project\Billing System\bin\Debug\Billing System.exe.config
+D:\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.exe
+D:\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.xml
+D:\Individual Project\Billing System Project\Billing System\obj\x86\Debug\Billing System.pdb
